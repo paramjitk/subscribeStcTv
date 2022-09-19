@@ -1,0 +1,507 @@
+2022-09-18 02:22:02 INFO  log:20 - driver launching=Chrome
+2022-09-18 02:22:21 INFO  log:20 - Chrome driver launched
+2022-09-18 02:22:21 INFO  log:20 - all cookies deleted
+2022-09-18 02:23:50 INFO  log:20 - driver launching=Chrome
+2022-09-18 02:23:52 INFO  log:20 - Chrome driver launched
+2022-09-18 02:23:52 INFO  log:20 - all cookies deleted
+2022-09-18 02:28:18 INFO  log:20 - driver launching=Chrome
+2022-09-18 02:28:20 INFO  log:20 - Chrome driver launched
+2022-09-18 02:28:20 INFO  log:20 - all cookies deleted
+2022-09-18 11:24:35 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:24:38 INFO  log:20 - Chrome driver launched
+2022-09-18 11:24:38 INFO  log:20 - all cookies deleted
+2022-09-18 11:35:13 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:35:16 INFO  log:20 - Chrome driver launched
+2022-09-18 11:35:16 INFO  log:20 - all cookies deleted
+2022-09-18 11:35:27 INFO  log:20 - Country list available
+2022-09-18 11:40:07 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:40:09 INFO  log:20 - Chrome driver launched
+2022-09-18 11:40:09 INFO  log:20 - all cookies deleted
+2022-09-18 11:40:20 INFO  log:20 - Country list available
+2022-09-18 11:47:09 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:47:11 INFO  log:20 - Chrome driver launched
+2022-09-18 11:47:11 INFO  log:20 - all cookies deleted
+2022-09-18 11:47:36 INFO  log:20 - Country list available
+2022-09-18 11:49:21 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:49:23 INFO  log:20 - Chrome driver launched
+2022-09-18 11:49:23 INFO  log:20 - all cookies deleted
+2022-09-18 11:49:28 INFO  log:20 - Country list available
+2022-09-18 11:50:39 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:50:41 INFO  log:20 - Chrome driver launched
+2022-09-18 11:50:41 INFO  log:20 - all cookies deleted
+2022-09-18 11:50:47 INFO  log:20 - Country list available
+2022-09-18 11:59:56 INFO  log:20 - driver launching=Chrome
+2022-09-18 11:59:59 INFO  log:20 - Chrome driver launched
+2022-09-18 11:59:59 INFO  log:20 - all cookies deleted
+2022-09-18 12:00:03 INFO  log:20 - Country list available
+2022-09-18 12:02:45 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:02:47 INFO  log:20 - Chrome driver launched
+2022-09-18 12:02:47 INFO  log:20 - all cookies deleted
+2022-09-18 12:02:50 INFO  log:20 - Country list available
+2022-09-18 12:03:19 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:03:21 INFO  log:20 - Chrome driver launched
+2022-09-18 12:03:21 INFO  log:20 - all cookies deleted
+2022-09-18 12:03:25 INFO  log:20 - Country list available
+2022-09-18 12:04:15 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:04:17 INFO  log:20 - Chrome driver launched
+2022-09-18 12:04:17 INFO  log:20 - all cookies deleted
+2022-09-18 12:04:20 INFO  log:20 - Country list available
+2022-09-18 12:05:00 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:05:02 INFO  log:20 - Chrome driver launched
+2022-09-18 12:05:06 INFO  log:20 - Country list available
+2022-09-18 12:11:24 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:11:26 INFO  log:20 - Chrome driver launched
+2022-09-18 12:11:49 INFO  log:20 - Country list available
+2022-09-18 12:13:47 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:13:49 INFO  log:20 - Chrome driver launched
+2022-09-18 12:13:49 INFO  log:20 - all cookies deleted
+2022-09-18 12:13:54 INFO  log:20 - Country list available
+2022-09-18 12:16:29 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:16:30 INFO  log:20 - Chrome driver launched
+2022-09-18 12:16:30 INFO  log:20 - all cookies deleted
+2022-09-18 12:16:34 INFO  log:20 - Country list available
+2022-09-18 12:21:27 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:21:29 INFO  log:20 - Chrome driver launched
+2022-09-18 12:21:29 INFO  log:20 - all cookies deleted
+2022-09-18 12:21:33 INFO  log:20 - Country list available
+2022-09-18 12:23:34 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:23:36 INFO  log:20 - Chrome driver launched
+2022-09-18 12:23:36 INFO  log:20 - all cookies deleted
+2022-09-18 12:23:58 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:24:00 INFO  log:20 - Chrome driver launched
+2022-09-18 12:24:00 INFO  log:20 - all cookies deleted
+2022-09-18 12:24:32 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:24:33 INFO  log:20 - Chrome driver launched
+2022-09-18 12:24:33 INFO  log:20 - all cookies deleted
+2022-09-18 12:25:09 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:25:11 INFO  log:20 - Chrome driver launched
+2022-09-18 12:25:11 INFO  log:20 - all cookies deleted
+2022-09-18 12:51:51 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:51:54 INFO  log:20 - Chrome driver launched
+2022-09-18 12:51:54 INFO  log:20 - all cookies deleted
+2022-09-18 12:54:06 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:54:08 INFO  log:20 - Chrome driver launched
+2022-09-18 12:54:08 INFO  log:20 - all cookies deleted
+2022-09-18 12:54:56 INFO  log:20 - Country list available
+2022-09-18 12:59:18 INFO  log:20 - driver launching=Chrome
+2022-09-18 12:59:20 INFO  log:20 - Chrome driver launched
+2022-09-18 12:59:20 INFO  log:20 - all cookies deleted
+2022-09-18 12:59:30 INFO  log:20 - Country list available
+2022-09-18 13:00:26 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:00:28 INFO  log:20 - Chrome driver launched
+2022-09-18 13:00:28 INFO  log:20 - all cookies deleted
+2022-09-18 13:00:42 INFO  log:20 - Country list available
+2022-09-18 13:07:02 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:07:05 INFO  log:20 - Chrome driver launched
+2022-09-18 13:07:05 INFO  log:20 - all cookies deleted
+2022-09-18 13:07:12 INFO  log:20 - Country list available
+2022-09-18 13:08:11 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:08:13 INFO  log:20 - Chrome driver launched
+2022-09-18 13:08:13 INFO  log:20 - all cookies deleted
+2022-09-18 13:08:36 INFO  log:20 - Country list available
+2022-09-18 13:14:09 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:14:12 INFO  log:20 - Chrome driver launched
+2022-09-18 13:14:12 INFO  log:20 - all cookies deleted
+2022-09-18 13:14:18 INFO  log:20 - Country list available
+2022-09-18 13:16:03 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:16:05 INFO  log:20 - Chrome driver launched
+2022-09-18 13:16:05 INFO  log:20 - all cookies deleted
+2022-09-18 13:16:31 INFO  log:20 - Country list available
+2022-09-18 13:19:31 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:19:32 INFO  log:20 - Chrome driver launched
+2022-09-18 13:19:32 INFO  log:20 - all cookies deleted
+2022-09-18 13:19:44 INFO  log:20 - Country list available
+2022-09-18 13:29:25 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:29:28 INFO  log:20 - Chrome driver launched
+2022-09-18 13:29:28 INFO  log:20 - all cookies deleted
+2022-09-18 13:29:53 INFO  log:20 - Country list available
+2022-09-18 13:31:45 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:31:47 INFO  log:20 - Chrome driver launched
+2022-09-18 13:31:47 INFO  log:20 - all cookies deleted
+2022-09-18 13:34:16 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:34:17 INFO  log:20 - Chrome driver launched
+2022-09-18 13:34:17 INFO  log:20 - all cookies deleted
+2022-09-18 13:34:34 INFO  log:20 - Country list available
+2022-09-18 13:36:57 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:36:58 INFO  log:20 - Chrome driver launched
+2022-09-18 13:36:59 INFO  log:20 - all cookies deleted
+2022-09-18 13:37:22 INFO  log:20 - Country list available
+2022-09-18 13:45:17 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:45:19 INFO  log:20 - Chrome driver launched
+2022-09-18 13:45:19 INFO  log:20 - all cookies deleted
+2022-09-18 13:45:25 INFO  log:20 - Country list available
+2022-09-18 13:52:56 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:52:58 INFO  log:20 - Chrome driver launched
+2022-09-18 13:52:58 INFO  log:20 - all cookies deleted
+2022-09-18 13:53:42 INFO  log:20 - Country list available
+2022-09-18 13:57:08 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:57:10 INFO  log:20 - Chrome driver launched
+2022-09-18 13:57:10 INFO  log:20 - all cookies deleted
+2022-09-18 13:57:16 INFO  log:20 - Country list available
+2022-09-18 13:59:49 INFO  log:20 - driver launching=Chrome
+2022-09-18 13:59:51 INFO  log:20 - Chrome driver launched
+2022-09-18 13:59:51 INFO  log:20 - all cookies deleted
+2022-09-18 13:59:58 INFO  log:20 - Country list available
+2022-09-18 14:00:43 INFO  log:20 - driver launching=Chrome
+2022-09-18 14:00:45 INFO  log:20 - Chrome driver launched
+2022-09-18 14:00:45 INFO  log:20 - all cookies deleted
+2022-09-18 14:00:49 INFO  log:20 - Country list available
+2022-09-18 14:09:42 INFO  log:20 - driver launching=Chrome
+2022-09-18 14:09:44 INFO  log:20 - Chrome driver launched
+2022-09-18 14:09:44 INFO  log:20 - all cookies deleted
+2022-09-18 14:10:24 INFO  log:20 - Country list available
+2022-09-18 14:23:11 INFO  log:20 - driver launching=Chrome
+2022-09-18 14:23:13 INFO  log:20 - Chrome driver launched
+2022-09-18 14:23:13 INFO  log:20 - all cookies deleted
+2022-09-18 14:23:41 INFO  log:20 - Country list available
+2022-09-18 16:16:52 INFO  log:20 - driver launching=Chrome
+2022-09-18 16:16:55 INFO  log:20 - Chrome driver launched
+2022-09-18 16:16:56 INFO  log:20 - all cookies deleted
+2022-09-18 16:17:13 INFO  log:20 - Country list available
+2022-09-18 16:30:37 INFO  log:20 - driver launching=Chrome
+2022-09-18 16:30:39 INFO  log:20 - Chrome driver launched
+2022-09-18 16:30:39 INFO  log:20 - all cookies deleted
+2022-09-18 17:11:26 INFO  log:20 - driver launching=Chrome
+2022-09-18 17:11:29 INFO  log:20 - Chrome driver launched
+2022-09-18 17:11:29 INFO  log:20 - all cookies deleted
+2022-09-18 17:11:40 INFO  log:20 - Country list available
+2022-09-18 17:12:43 INFO  log:20 - driver launching=Chrome
+2022-09-18 17:12:45 INFO  log:20 - Chrome driver launched
+2022-09-18 17:12:46 INFO  log:20 - all cookies deleted
+2022-09-18 17:13:22 INFO  log:20 - Country list available
+2022-09-18 17:14:49 INFO  log:20 - driver launching=Chrome
+2022-09-18 17:14:51 INFO  log:20 - Chrome driver launched
+2022-09-18 17:14:51 INFO  log:20 - all cookies deleted
+2022-09-18 17:15:35 INFO  log:20 - Country list available
+2022-09-18 17:16:00 INFO  log:20 - driver launching=Chrome
+2022-09-18 17:16:02 INFO  log:20 - Chrome driver launched
+2022-09-18 17:16:02 INFO  log:20 - all cookies deleted
+2022-09-18 17:16:51 INFO  log:20 - Country list available
+2022-09-18 17:17:16 INFO  log:20 - driver launching=Chrome
+2022-09-18 17:17:19 INFO  log:20 - Chrome driver launched
+2022-09-18 17:17:19 INFO  log:20 - all cookies deleted
+2022-09-18 17:17:43 INFO  log:20 - Country list available
+2022-09-18 19:29:21 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:29:26 INFO  log:20 - Chrome driver launched
+2022-09-18 19:29:26 INFO  log:20 - all cookies deleted
+2022-09-18 19:30:09 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:30:11 INFO  log:20 - Chrome driver launched
+2022-09-18 19:30:11 INFO  log:20 - all cookies deleted
+2022-09-18 19:30:26 INFO  log:20 - Country list available
+2022-09-18 19:39:25 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:39:27 INFO  log:20 - Chrome driver launched
+2022-09-18 19:39:27 INFO  log:20 - all cookies deleted
+2022-09-18 19:40:16 INFO  log:20 - Country list available
+2022-09-18 19:42:20 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:42:23 INFO  log:20 - Chrome driver launched
+2022-09-18 19:42:23 INFO  log:20 - all cookies deleted
+2022-09-18 19:43:07 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:43:09 INFO  log:20 - Chrome driver launched
+2022-09-18 19:43:09 INFO  log:20 - all cookies deleted
+2022-09-18 19:43:24 INFO  log:20 - Country list available
+2022-09-18 19:52:29 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:52:31 INFO  log:20 - Chrome driver launched
+2022-09-18 19:52:31 INFO  log:20 - all cookies deleted
+2022-09-18 19:52:43 INFO  log:20 - Country list available
+2022-09-18 19:58:44 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:58:47 INFO  log:20 - Chrome driver launched
+2022-09-18 19:58:47 INFO  log:20 - all cookies deleted
+2022-09-18 19:59:27 INFO  log:20 - driver launching=Chrome
+2022-09-18 19:59:29 INFO  log:20 - Chrome driver launched
+2022-09-18 19:59:29 INFO  log:20 - all cookies deleted
+2022-09-18 20:00:00 INFO  log:20 - Country list available
+2022-09-18 21:36:03 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:36:08 INFO  log:20 - Chrome driver launched
+2022-09-18 21:36:08 INFO  log:20 - all cookies deleted
+2022-09-18 21:36:30 INFO  log:20 - Country list available
+2022-09-18 21:37:20 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:37:24 INFO  log:20 - Chrome driver launched
+2022-09-18 21:37:24 INFO  log:20 - all cookies deleted
+2022-09-18 21:37:40 INFO  log:20 - Country list available
+2022-09-18 21:38:44 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:38:47 INFO  log:20 - Chrome driver launched
+2022-09-18 21:38:47 INFO  log:20 - all cookies deleted
+2022-09-18 21:39:31 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:39:33 INFO  log:20 - Chrome driver launched
+2022-09-18 21:39:33 INFO  log:20 - all cookies deleted
+2022-09-18 21:40:04 INFO  log:20 - Country list available
+2022-09-18 21:43:35 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:43:37 INFO  log:20 - Chrome driver launched
+2022-09-18 21:43:37 INFO  log:20 - all cookies deleted
+2022-09-18 21:44:30 INFO  log:20 - Country list available
+2022-09-18 21:46:12 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:46:14 INFO  log:20 - Chrome driver launched
+2022-09-18 21:46:14 INFO  log:20 - all cookies deleted
+2022-09-18 21:46:48 INFO  log:20 - Country list available
+2022-09-18 21:49:26 INFO  log:20 - driver launching=Chrome
+2022-09-18 21:49:28 INFO  log:20 - Chrome driver launched
+2022-09-18 21:49:28 INFO  log:20 - all cookies deleted
+2022-09-18 21:50:29 INFO  log:20 - Country list available
+2022-09-18 22:06:33 INFO  log:20 - driver launching=Chrome
+2022-09-18 22:06:35 INFO  log:20 - Chrome driver launched
+2022-09-18 22:06:35 INFO  log:20 - all cookies deleted
+2022-09-18 22:07:31 INFO  log:20 - driver launching=Chrome
+2022-09-18 22:07:33 INFO  log:20 - Chrome driver launched
+2022-09-18 22:07:33 INFO  log:20 - all cookies deleted
+2022-09-18 22:08:40 INFO  log:20 - Country list available
+2022-09-18 22:11:23 INFO  log:20 - driver launching=Chrome
+2022-09-18 22:11:25 INFO  log:20 - Chrome driver launched
+2022-09-18 22:11:25 INFO  log:20 - all cookies deleted
+2022-09-18 22:11:38 INFO  log:20 - Country list available
+2022-09-18 22:15:36 INFO  log:20 - driver launching=Chrome
+2022-09-18 22:15:38 INFO  log:20 - Chrome driver launched
+2022-09-18 22:15:38 INFO  log:20 - all cookies deleted
+2022-09-18 22:16:26 INFO  log:20 - Country list available
+2022-09-18 22:53:06 INFO  log:20 - driver launching=Chrome
+2022-09-18 22:53:09 INFO  log:20 - Chrome driver launched
+2022-09-18 22:53:09 INFO  log:20 - all cookies deleted
+2022-09-18 22:53:18 INFO  log:20 - Country list available
+2022-09-18 23:06:08 INFO  log:20 - driver launching=Chrome
+2022-09-18 23:06:10 INFO  log:20 - Chrome driver launched
+2022-09-18 23:06:10 INFO  log:20 - all cookies deleted
+2022-09-18 23:17:02 INFO  log:20 - driver launching=Chrome
+2022-09-18 23:17:05 INFO  log:20 - Chrome driver launched
+2022-09-18 23:17:05 INFO  log:20 - all cookies deleted
+2022-09-18 23:17:12 INFO  log:20 - Country list available
+2022-09-18 23:19:26 INFO  log:20 - driver launching=Chrome
+2022-09-18 23:19:29 INFO  log:20 - Chrome driver launched
+2022-09-18 23:19:29 INFO  log:20 - all cookies deleted
+2022-09-18 23:19:38 INFO  log:20 - Amount matched
+2022-09-18 23:19:39 INFO  log:20 - Country list available
+2022-09-18 23:45:40 INFO  log:20 - driver launching=Chrome
+2022-09-18 23:45:42 INFO  log:20 - Chrome driver launched
+2022-09-18 23:45:42 INFO  log:20 - all cookies deleted
+2022-09-18 23:46:35 INFO  log:20 - Country list available
+2022-09-19 01:04:21 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:04:25 INFO  log:20 - Chrome driver launched
+2022-09-19 01:04:25 INFO  log:20 - all cookies deleted
+2022-09-19 01:05:05 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:05:06 INFO  log:20 - Chrome driver launched
+2022-09-19 01:05:06 INFO  log:20 - all cookies deleted
+2022-09-19 01:05:25 INFO  log:20 - Country list available
+2022-09-19 01:08:50 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:08:52 INFO  log:20 - Chrome driver launched
+2022-09-19 01:08:52 INFO  log:20 - all cookies deleted
+2022-09-19 01:09:08 INFO  log:20 - Country list available
+2022-09-19 01:12:57 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:12:59 INFO  log:20 - Chrome driver launched
+2022-09-19 01:12:59 INFO  log:20 - all cookies deleted
+2022-09-19 01:19:59 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:20:01 INFO  log:20 - Chrome driver launched
+2022-09-19 01:20:01 INFO  log:20 - all cookies deleted
+2022-09-19 01:33:17 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:33:19 INFO  log:20 - Chrome driver launched
+2022-09-19 01:33:19 INFO  log:20 - all cookies deleted
+2022-09-19 01:33:28 INFO  log:20 - Dropdown clicked
+2022-09-19 01:36:22 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:36:24 INFO  log:20 - Chrome driver launched
+2022-09-19 01:36:24 INFO  log:20 - all cookies deleted
+2022-09-19 01:36:41 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:36:43 INFO  log:20 - Chrome driver launched
+2022-09-19 01:36:43 INFO  log:20 - all cookies deleted
+2022-09-19 01:37:53 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:37:56 INFO  log:20 - Chrome driver launched
+2022-09-19 01:37:56 INFO  log:20 - all cookies deleted
+2022-09-19 01:43:50 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:43:52 INFO  log:20 - Chrome driver launched
+2022-09-19 01:43:52 INFO  log:20 - all cookies deleted
+2022-09-19 01:45:54 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:45:56 INFO  log:20 - Chrome driver launched
+2022-09-19 01:45:56 INFO  log:20 - all cookies deleted
+2022-09-19 01:57:26 INFO  log:20 - driver launching=Chrome
+2022-09-19 01:57:28 INFO  log:20 - Chrome driver launched
+2022-09-19 01:57:28 INFO  log:20 - all cookies deleted
+2022-09-19 02:09:42 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:09:45 INFO  log:20 - Chrome driver launched
+2022-09-19 02:09:45 INFO  log:20 - all cookies deleted
+2022-09-19 02:10:16 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:10:19 INFO  log:20 - Chrome driver launched
+2022-09-19 02:10:19 INFO  log:20 - all cookies deleted
+2022-09-19 02:14:28 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:14:30 INFO  log:20 - Chrome driver launched
+2022-09-19 02:14:30 INFO  log:20 - all cookies deleted
+2022-09-19 02:17:58 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:18:00 INFO  log:20 - Chrome driver launched
+2022-09-19 02:18:00 INFO  log:20 - all cookies deleted
+2022-09-19 02:21:38 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:21:41 INFO  log:20 - Chrome driver launched
+2022-09-19 02:21:41 INFO  log:20 - all cookies deleted
+2022-09-19 02:37:37 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:37:41 INFO  log:20 - Chrome driver launched
+2022-09-19 02:37:41 INFO  log:20 - all cookies deleted
+2022-09-19 02:41:25 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:41:27 INFO  log:20 - Chrome driver launched
+2022-09-19 02:41:27 INFO  log:20 - all cookies deleted
+2022-09-19 02:42:22 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:42:24 INFO  log:20 - Chrome driver launched
+2022-09-19 02:42:24 INFO  log:20 - all cookies deleted
+2022-09-19 02:44:44 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:44:46 INFO  log:20 - Chrome driver launched
+2022-09-19 02:44:46 INFO  log:20 - all cookies deleted
+2022-09-19 02:45:21 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:45:22 INFO  log:20 - Chrome driver launched
+2022-09-19 02:45:22 INFO  log:20 - all cookies deleted
+2022-09-19 02:46:21 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:46:23 INFO  log:20 - Chrome driver launched
+2022-09-19 02:46:23 INFO  log:20 - all cookies deleted
+2022-09-19 02:46:58 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:47:00 INFO  log:20 - Chrome driver launched
+2022-09-19 02:47:00 INFO  log:20 - all cookies deleted
+2022-09-19 02:47:54 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:47:55 INFO  log:20 - Chrome driver launched
+2022-09-19 02:47:56 INFO  log:20 - all cookies deleted
+2022-09-19 02:48:46 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:48:48 INFO  log:20 - Chrome driver launched
+2022-09-19 02:48:48 INFO  log:20 - all cookies deleted
+2022-09-19 02:51:49 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:51:52 INFO  log:20 - Chrome driver launched
+2022-09-19 02:51:52 INFO  log:20 - all cookies deleted
+2022-09-19 02:53:28 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:53:30 INFO  log:20 - Chrome driver launched
+2022-09-19 02:53:30 INFO  log:20 - all cookies deleted
+2022-09-19 02:54:48 INFO  log:20 - driver launching=Chrome
+2022-09-19 02:54:50 INFO  log:20 - Chrome driver launched
+2022-09-19 02:54:50 INFO  log:20 - all cookies deleted
+2022-09-19 09:32:08 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:32:52 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:32:53 INFO  log:20 - Chrome driver launched
+2022-09-19 09:32:54 INFO  log:20 - all cookies deleted
+2022-09-19 09:38:13 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:38:15 INFO  log:20 - Chrome driver launched
+2022-09-19 09:38:15 INFO  log:20 - all cookies deleted
+2022-09-19 09:43:51 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:43:53 INFO  log:20 - Chrome driver launched
+2022-09-19 09:43:53 INFO  log:20 - all cookies deleted
+2022-09-19 09:46:36 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:46:38 INFO  log:20 - Chrome driver launched
+2022-09-19 09:46:38 INFO  log:20 - all cookies deleted
+2022-09-19 09:47:18 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:47:19 INFO  log:20 - Chrome driver launched
+2022-09-19 09:47:19 INFO  log:20 - all cookies deleted
+2022-09-19 09:50:34 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:50:36 INFO  log:20 - Chrome driver launched
+2022-09-19 09:50:36 INFO  log:20 - all cookies deleted
+2022-09-19 09:55:02 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:55:04 INFO  log:20 - Chrome driver launched
+2022-09-19 09:55:04 INFO  log:20 - all cookies deleted
+2022-09-19 09:55:25 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:55:26 INFO  log:20 - Chrome driver launched
+2022-09-19 09:55:26 INFO  log:20 - all cookies deleted
+2022-09-19 09:59:40 INFO  log:20 - driver launching=Chrome
+2022-09-19 09:59:41 INFO  log:20 - Chrome driver launched
+2022-09-19 09:59:41 INFO  log:20 - all cookies deleted
+2022-09-19 10:01:29 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:01:31 INFO  log:20 - Chrome driver launched
+2022-09-19 10:01:31 INFO  log:20 - all cookies deleted
+2022-09-19 10:02:57 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:02:58 INFO  log:20 - Chrome driver launched
+2022-09-19 10:02:59 INFO  log:20 - all cookies deleted
+2022-09-19 10:04:46 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:04:48 INFO  log:20 - Chrome driver launched
+2022-09-19 10:04:48 INFO  log:20 - all cookies deleted
+2022-09-19 10:10:12 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:10:14 INFO  log:20 - Chrome driver launched
+2022-09-19 10:10:14 INFO  log:20 - all cookies deleted
+2022-09-19 10:10:57 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:10:59 INFO  log:20 - Chrome driver launched
+2022-09-19 10:10:59 INFO  log:20 - all cookies deleted
+2022-09-19 10:24:06 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:24:08 INFO  log:20 - Chrome driver launched
+2022-09-19 10:24:08 INFO  log:20 - all cookies deleted
+2022-09-19 10:27:41 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:27:43 INFO  log:20 - Chrome driver launched
+2022-09-19 10:27:43 INFO  log:20 - all cookies deleted
+2022-09-19 10:39:46 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:39:49 INFO  log:20 - Chrome driver launched
+2022-09-19 10:39:49 INFO  log:20 - all cookies deleted
+2022-09-19 10:45:13 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:45:15 INFO  log:20 - Chrome driver launched
+2022-09-19 10:45:15 INFO  log:20 - all cookies deleted
+2022-09-19 10:46:49 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:46:51 INFO  log:20 - Chrome driver launched
+2022-09-19 10:46:51 INFO  log:20 - all cookies deleted
+2022-09-19 10:53:51 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:53:53 INFO  log:20 - Chrome driver launched
+2022-09-19 10:53:53 INFO  log:20 - all cookies deleted
+2022-09-19 10:55:37 INFO  log:20 - driver launching=Chrome
+2022-09-19 10:55:39 INFO  log:20 - Chrome driver launched
+2022-09-19 10:55:39 INFO  log:20 - all cookies deleted
+2022-09-19 11:01:06 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:01:08 INFO  log:20 - Chrome driver launched
+2022-09-19 11:01:08 INFO  log:20 - all cookies deleted
+2022-09-19 11:03:34 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:03:36 INFO  log:20 - Chrome driver launched
+2022-09-19 11:03:36 INFO  log:20 - all cookies deleted
+2022-09-19 11:10:31 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:10:33 INFO  log:20 - Chrome driver launched
+2022-09-19 11:10:33 INFO  log:20 - all cookies deleted
+2022-09-19 11:11:29 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:11:31 INFO  log:20 - Chrome driver launched
+2022-09-19 11:11:31 INFO  log:20 - all cookies deleted
+2022-09-19 11:12:46 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:12:48 INFO  log:20 - Chrome driver launched
+2022-09-19 11:12:48 INFO  log:20 - all cookies deleted
+2022-09-19 11:18:07 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:18:09 INFO  log:20 - Chrome driver launched
+2022-09-19 11:18:09 INFO  log:20 - all cookies deleted
+2022-09-19 11:18:57 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:18:59 INFO  log:20 - Chrome driver launched
+2022-09-19 11:18:59 INFO  log:20 - all cookies deleted
+2022-09-19 11:19:56 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:19:58 INFO  log:20 - Chrome driver launched
+2022-09-19 11:19:58 INFO  log:20 - all cookies deleted
+2022-09-19 11:20:33 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:20:35 INFO  log:20 - Chrome driver launched
+2022-09-19 11:20:35 INFO  log:20 - all cookies deleted
+2022-09-19 11:23:57 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:23:59 INFO  log:20 - Chrome driver launched
+2022-09-19 11:23:59 INFO  log:20 - all cookies deleted
+2022-09-19 11:44:22 INFO  log:20 - driver launching=Chrome
+2022-09-19 11:44:25 INFO  log:20 - Chrome driver launched
+2022-09-19 11:44:25 INFO  log:20 - all cookies deleted
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-09-19 11:44:41 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2022-09-19 11:44:41 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2022-09-19 11:44:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2022-09-19 11:44:41 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/param/.m2/repository/com/aventstack/extentreports/3.1.2/extentreports-3.1.2.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
